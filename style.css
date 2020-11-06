@@ -16,4 +16,19 @@ nav a{
   padding: 0px 10px;
   background: grey;
 }
+figcaption{
+  text-align: center;
+}
+
+#featured-property{
+  width: 800px;
+  text-align: center;
+}
+
+#details{
+  display: block;
+}
+
+
+
 
