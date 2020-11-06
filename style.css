@@ -11,3 +11,9 @@ header{
 img{
   align-items: center;
 }
+nav a{
+  text-align: center;
+  padding: 0px 10px;
+  background: grey;
+}
+
